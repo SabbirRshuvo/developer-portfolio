@@ -27,3 +27,19 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.thik{
+    width: 100%;
+    padding: 40px 300px;
+}
+.tumi{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
