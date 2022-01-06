@@ -43,3 +43,12 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.web{
+    display: flex;
+    padding: 30px 50px;
+}
+.net{
+    box-shadow: 5px 5px 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
